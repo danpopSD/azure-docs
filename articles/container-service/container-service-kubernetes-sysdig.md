@@ -55,7 +55,7 @@ You can sign up for an account on their [site](https://app.sysdigcloud.com).
 Once you're logged in to the Sysdig cloud website, click on your user name, and on the page you should 
 see your "Access Key." 
 
-![Sysdig API key](./media/container-service-monitoring-sysdig/sysdig2.png)
+![Sysdig API key](./media/container-service-monitoring-sysdig/sysdig2.png) . *** Update to new location reflected in this image:  https://www.dropbox.com/s/eoei6zdywt41pe3/Screen%20Shot%202017-05-26%20at%2012.25.51%20AM.png?dl=0
 
 ## Installing the Sysdig agents to Kubernetes
 To monitor your containers, Sysdig runs a process on each machine using a Kubernetes `DaemonSet`.
